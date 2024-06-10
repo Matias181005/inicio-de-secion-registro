@@ -1,0 +1,36 @@
+.contenido{
+    background-color:aliceblue;
+    padding: 2% 2%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#cuadro{
+    display: flex;
+    padding: 2% 2%;
+}
+#box_form1{
+    background-color: aqua;
+    width: 500px;
+    padding: 2% 2%;
+    margin: 2% 2%;
+    text-align: left;
+    border: 3px solid #40352C;
+    border-radius: 25px;
+}
+#box_tit{
+    color: black;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    font-family: fantasy;
+    font-style: italic;
+}
+#in_nombre,#in_apellido,#in_correo,#in_reg_contra,#in_conf_contra,#in_correo_lg,#in_contra_lg{
+    width: 100%;
+    padding: 2% 2%;
+    margin: 1% 2%;
+    text-align: left;
+    border: 3px solid black;
+    border-radius: 15px;
+}
